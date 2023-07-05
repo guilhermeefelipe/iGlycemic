@@ -1,0 +1,34 @@
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Services\bin\Debug\net6.0\iGlycemic.Services.deps.json
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Services\bin\Debug\net6.0\iGlycemic.Services.dll
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Services\bin\Debug\net6.0\iGlycemic.Services.pdb
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Services\bin\Debug\net6.0\iGlycemic.Core.dll
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Services\bin\Debug\net6.0\iGlycemic.Core.pdb
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Services\obj\Debug\net6.0\iGlycemic.Services.csproj.AssemblyReference.cache
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Services\obj\Debug\net6.0\iGlycemic.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Services\obj\Debug\net6.0\iGlycemic.Services.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Services\obj\Debug\net6.0\iGlycemic.Services.AssemblyInfo.cs
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Services\obj\Debug\net6.0\iGlycemic.Services.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Services\obj\Debug\net6.0\iGlycemic.Services.csproj.CopyComplete
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Services\obj\Debug\net6.0\iGlycemic.Services.dll
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Services\obj\Debug\net6.0\refint\iGlycemic.Services.dll
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Services\obj\Debug\net6.0\iGlycemic.Services.pdb
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Services\obj\Debug\net6.0\ref\iGlycemic.Services.dll
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Services\bin\Debug\net6.0\iGlycemic.Infrastructure.dll
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Services\bin\Debug\net6.0\iGlycemic.Infrastructure.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Services\bin\Debug\net6.0\iGlycemic.Services.deps.json
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Services\bin\Debug\net6.0\iGlycemic.Services.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Services\bin\Debug\net6.0\iGlycemic.Services.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Services\bin\Debug\net6.0\iGlycemic.Core.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Services\bin\Debug\net6.0\iGlycemic.Infrastructure.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Services\bin\Debug\net6.0\iGlycemic.Core.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Services\bin\Debug\net6.0\iGlycemic.Infrastructure.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Services\obj\Debug\net6.0\iGlycemic.Services.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Services\obj\Debug\net6.0\iGlycemic.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Services\obj\Debug\net6.0\iGlycemic.Services.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Services\obj\Debug\net6.0\iGlycemic.Services.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Services\obj\Debug\net6.0\iGlycemic.Services.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Services\obj\Debug\net6.0\iGlycemic.Services.csproj.CopyComplete
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Services\obj\Debug\net6.0\iGlycemic.Services.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Services\obj\Debug\net6.0\refint\iGlycemic.Services.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Services\obj\Debug\net6.0\iGlycemic.Services.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Services\obj\Debug\net6.0\ref\iGlycemic.Services.dll

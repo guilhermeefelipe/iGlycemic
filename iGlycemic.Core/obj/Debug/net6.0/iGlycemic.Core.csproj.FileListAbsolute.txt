@@ -1,0 +1,24 @@
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Core\bin\Debug\net6.0\iGlycemic.Core.deps.json
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Core\bin\Debug\net6.0\iGlycemic.Core.dll
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Core\bin\Debug\net6.0\iGlycemic.Core.pdb
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Core\obj\Debug\net6.0\iGlycemic.Core.csproj.AssemblyReference.cache
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Core\obj\Debug\net6.0\iGlycemic.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Core\obj\Debug\net6.0\iGlycemic.Core.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Core\obj\Debug\net6.0\iGlycemic.Core.AssemblyInfo.cs
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Core\obj\Debug\net6.0\iGlycemic.Core.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Core\obj\Debug\net6.0\iGlycemic.Core.dll
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Core\obj\Debug\net6.0\refint\iGlycemic.Core.dll
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Core\obj\Debug\net6.0\iGlycemic.Core.pdb
+C:\Users\DEV\Desktop\projeto\iGlycemic\iGlycemic.Core\obj\Debug\net6.0\ref\iGlycemic.Core.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Core\bin\Debug\net6.0\iGlycemic.Core.deps.json
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Core\bin\Debug\net6.0\iGlycemic.Core.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Core\bin\Debug\net6.0\iGlycemic.Core.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Core\obj\Debug\net6.0\iGlycemic.Core.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Core\obj\Debug\net6.0\iGlycemic.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Core\obj\Debug\net6.0\iGlycemic.Core.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Core\obj\Debug\net6.0\iGlycemic.Core.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Core\obj\Debug\net6.0\iGlycemic.Core.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Core\obj\Debug\net6.0\iGlycemic.Core.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Core\obj\Debug\net6.0\refint\iGlycemic.Core.dll
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Core\obj\Debug\net6.0\iGlycemic.Core.pdb
+C:\Users\guilh\OneDrive\Área de Trabalho\iGlycemic2\iGlycemic.Core\obj\Debug\net6.0\ref\iGlycemic.Core.dll
